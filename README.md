@@ -1,10 +1,9 @@
 ### Hi there, I'm Anna Fonte 🙂
 
 
-💻 I’m currently learning ...
 
-👯 I’m looking to collaborate on ...
+💻 I’m currently learning Python 
 
-Hobbies 
+💭 Interests
 
 📫 You can reach me on: 

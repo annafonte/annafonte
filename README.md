@@ -10,4 +10,4 @@
       - Linkedin:
       - Email: 
 
-
+:file_folder:	In this profile you will find my main projects:

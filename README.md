@@ -2,12 +2,12 @@
 
 
 
-:woman_technologist:  I’m currently diving deep into Data Analytics and Data Science with Python language (pandas, NumPy, Scikit-Learn, Keras, NLP)
+:woman_technologist:  I’m currently diving deep into Data Analytics and Data Science with Python: pandas, NumPy, Scikit-Learn, Keras, NLP and some other
 
-:thought_balloon:	   Interests
+:thought_balloon:	My main interests and hobbies are ...
 
-:inbox_tray:    You can reach me on:
-      - Linkedin:
-      - Email: 
+:inbox_tray: You can reach me on [Linkedin](https://www.linkedin.com/in/annafonte/) 
 
-:file_folder:	In this profile you will find my main projects:
+:file_folder: In this profile you will find my main projects:
+* Title
+* Title

@@ -2,8 +2,9 @@
 
 
 
-💻 I’m currently learning Python 
+💻   I’m currently diving deep into Data Analytics and Data Science with Python language (pandas, NumPy, Scikit-Learn, Keras, NLP)
 
-💭 Interests
+💭   Interests
 
-📫 You can reach me on: 
+📫   You can reach me on
+      - 

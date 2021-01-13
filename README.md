@@ -9,7 +9,7 @@
 :inbox_tray: &nbsp; You can reach me on my [Linkedin](https://www.linkedin.com/in/annafonte/) 
 
 :file_folder: &nbsp; In this profile you will find my **main projects**:
-* [Spotify Song Recommender](https://github.com/annafonte/spotify-song-recommender): 
-* [Data Revolution for a Sustainable World](https://github.com/annafonte/forecasting-sdgs): 
-* [Extracting emotion through Machine Learning](https://github.com/annafonte/nlp-tripadvisor): 
+* [Spotify Song Recommender](https://github.com/annafonte/spotify-song-recommender): my first end-to-end project, using Web Scraping with BeautifulSoup and Spotify API. Clustering songs based on its audio features. 
+* [Data Revolution for a Sustainable World](https://github.com/annafonte/forecasting-sdgs): forecasting the achievement of the Sustainable Development Goals of the United Nations, using FBProphet library. 
+* [Extracting emotion through Machine Learning](https://github.com/annafonte/nlp-tripadvisor): performing sentiment analysis of a tourist attraction, and finding correlation between the human and machine sentiment.
 * And some more are on its way... 

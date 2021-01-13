@@ -6,7 +6,7 @@
 
 :thought_balloon:	&nbsp; My main **interests** and hobbies are Marketing, Artificial Intelligence, Mindfulness, Creative Writing, Sustainability & Zero Waste lifestyle.
 
-:inbox_tray: &nbsp; You can reach me on my [Linkedin](https://www.linkedin.com/in/annafonte/) 
+:inbox_tray: &nbsp; You can reach me on my [Linkedin](https://www.linkedin.com/in/annafonte/) profile.
 
 :file_folder: &nbsp; In this profile you will find my **main projects**:
 * [Spotify Song Recommender](https://github.com/annafonte/spotify-song-recommender): my first end-to-end project, using Web Scraping with BeautifulSoup and Spotify API. Clustering songs based on its audio features. 

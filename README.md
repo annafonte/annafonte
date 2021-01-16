@@ -13,3 +13,7 @@
 * And some more are on its way... 
 
 :inbox_tray: &nbsp; If you have any suggestion, you can reach me on my [Linkedin](https://www.linkedin.com/in/annafonte/) profile.
+
+### My status
+[![Anni's github stats](https://github-readme-stats.vercel.app/api?username=annafonte&show_icons=true)](https://github.com/annafonte/github-readme-stats)
+

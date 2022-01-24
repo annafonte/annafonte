@@ -2,9 +2,8 @@
 
 
 
-:woman_technologist: &nbsp;  I’m currently diving deep into **Data Analytics** and **Data Science** with **Python**: *pandas, NumPy, Scikit-Learn, SciPy, matplotlib & Seaborn, Keras, NLTK* and some other libraries.
+:woman_technologist: &nbsp;  I’m currently diving deep into **Data Analytics** and **Data Engineering** with **Python**.
 
-:thought_balloon:	&nbsp; My main **interests** and hobbies are Marketing, Artificial Intelligence, Mindfulness, Creative Writing, Sustainability & Zero Waste lifestyle.
 
 :file_folder: &nbsp; In this profile you will find my **main projects**:
 * [Spotify Song Recommender](https://github.com/annafonte/spotify-song-recommender): my first end-to-end project, using Web Scraping with BeautifulSoup and Spotify API. Clustering songs based on its audio features. 

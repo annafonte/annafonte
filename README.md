@@ -1,11 +1,26 @@
-### Hi there, I'm Anna Fonte 
+## Hi there, I'm Anna Fonte 
 
 
 
 :woman_technologist: &nbsp;  Passionate about **Data Engineering** with **Python, SQL and Spark** and **BI Analytics Engineering**.
 
-:inbox_tray: &nbsp; Reach me on my [Linkedin](https://www.linkedin.com/in/annafonte/) profile.
+Reach me in:
 
-### My status
-[![Anni's github stats](https://github-readme-stats.vercel.app/api?username=annafonte&show_icons=true)](https://github.com/annafonte/github-readme-stats)
+[![Linkedin Badge](https://img.shields.io/badge/-annafontefarre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annafontefarre/)](https://www.linkedin.com/in/annafontefarre/)
+[![Medium Badge](https://img.shields.io/badge/-@annafonte-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@annafonte/)](https://medium.com/@annafonte)
+[![Gmail Badge](https://img.shields.io/badge/-afonte33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afonte33@gmail.com)](mailto:afonte33@gmail.com)
+
+### ⚡ Stack
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-black?style=flat-square&logo=apache-spark)
+![Apache Spark](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=annafonte&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annafonte&hide=TeX&layout=compact)
 

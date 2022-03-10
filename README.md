@@ -14,13 +14,9 @@ Reach me in:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-black?style=flat-square&logo=apache-spark)
-![Apache Spark](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter)
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=annafonte&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annafonte&hide=TeX&layout=compact)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter)
 

@@ -2,7 +2,7 @@
 
 
 
-:woman_technologist: &nbsp;  Passionate about **Data BI Analytics Engineering** with **Python, SQL and Apache Spark**
+:woman_technologist: &nbsp;  Passionate about **Data & BI Analytics Engineering** with **Python, SQL and Apache Spark**
 
 Reach me in:
 

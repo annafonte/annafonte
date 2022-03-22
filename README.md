@@ -2,12 +2,12 @@
 
 
 
-:woman_technologist: &nbsp;  Passionate about **Data Engineering** with **Python, SQL and Spark** and **BI Analytics Engineering**.
+:woman_technologist: &nbsp;  Passionate about **Data BI Analytics Engineering** with **Python, SQL and Apache Spark**
 
 Reach me in:
 
-[![Linkedin Badge](https://img.shields.io/badge/-annafontefarre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annafontefarre/)](https://www.linkedin.com/in/annafontefarre/)
-[![Medium Badge](https://img.shields.io/badge/-@annafonte-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@annafonte/)](https://medium.com/@annafonte)
+[![Linkedin Badge](https://img.shields.io/badge/-annafontefarre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annafonte/)](https://www.linkedin.com/in/annafonte/)
+[![Medium Badge](https://img.shields.io/badge/-@afonte-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@annafonte/)](https://medium.com/@afonte)
 [![Gmail Badge](https://img.shields.io/badge/-afonte33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afonte33@gmail.com)](mailto:afonte33@gmail.com)
 
 ### ⚡ Stack

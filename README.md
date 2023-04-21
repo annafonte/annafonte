@@ -22,4 +22,5 @@ Reach me in:
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-black?style=flat-square&logo=apache-spark)
 ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-black?style=flat-square&logo=apache-kafka)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter)
+![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
 

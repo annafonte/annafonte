@@ -21,6 +21,8 @@ Reach me in:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-black?style=flat-square&logo=apache-spark)
 ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-black?style=flat-square&logo=apache-kafka)
+![Apache Airflow](https://img.shields.io/badge/-Apache_Aiflow-black?style=flat-square&logo=apache-airflow)
+![Looker](https://img.shields.io/badge/-Looker-black?style=flat-square&logo=looker)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter)
 ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
 
